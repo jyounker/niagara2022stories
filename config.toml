@@ -5,17 +5,17 @@ theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number than 3
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "Niagara2022stories"
     weight = 1
-    contentDir = "content/en"
+    contentDir = "content/"
   [languages.fr]
-    title = "Mon blogue"
+    title = "Placeholder for French"
     weight = 2
     contentDir = "content/fr"
 
