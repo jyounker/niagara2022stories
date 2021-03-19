@@ -18,6 +18,6 @@ We're currently harvesting specific Instagram accounts and hashtags:
 
 ### Twitter
 
-Twitter harvesting using API _in progress_
+Twitter harvesting (using API) _in progress_
 
 Interested in using this data in your research?  Please let us know!
