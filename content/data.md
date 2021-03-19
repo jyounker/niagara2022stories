@@ -1,5 +1,4 @@
 +++
-draft = true
 
 +++
 # Canada Games Data
