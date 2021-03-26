@@ -1,6 +1,14 @@
 ---
 label: Static Page
 hide_body: false
-fields: []
+fields:
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Blocks for editing
 pages:
 - content/data.md
