@@ -10,5 +10,14 @@ fields:
     min: 
     max: 
   description: Blocks for editing
+- name: textarea
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: textarea
 pages:
 - content/data.md
