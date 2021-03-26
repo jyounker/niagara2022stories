@@ -1,8 +1,10 @@
 ---
-title: About Us
+title: About
 date: 2021-03-26T09:40:17.000-04:00
-
+draft: false
 ---
+# About this project
+
 My name is Jonathan Younker, and I'm a librarian at Brock University, located in St. Catharines, Ontario.  I received a research grant through  the VPR Canada Games Grants program for this project.
 
 ### Goals
