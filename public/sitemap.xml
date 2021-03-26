@@ -3,26 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://niagara2022stories.ca/contribute/</loc>
+    <lastmod>2021-03-26T11:33:30-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://niagara2022stories.ca/contact/</loc>
+    <lastmod>2021-03-26T10:35:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://niagara2022stories.ca/about/</loc>
+    <lastmod>2021-03-26T09:40:17-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://niagara2022stories.ca/data/</loc>
+    <lastmod>2021-03-19T14:32:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://niagara2022stories.ca/news/</loc>
+    <lastmod>2021-03-19T14:32:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://niagara2022stories.ca/</loc>
     <lastmod>2021-02-01T15:38:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://niagara2022stories.ca/posts/</loc>
     <lastmod>2021-02-01T15:38:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/starting-the-new-year/</loc>
+    <loc>https://niagara2022stories.ca/posts/starting-the-new-year/</loc>
     <lastmod>2021-02-01T15:38:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://niagara2022stories.ca/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://niagara2022stories.ca/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

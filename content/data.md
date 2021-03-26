@@ -1,7 +1,10 @@
 ---
-title: "Canada Games Data"
+title: "Data"
+omit_header_text: true
+description: Canada Games Data
+type: page
+menu: main
 date: 2021-03-19T14:32:58-04:00
-draft: false
 ---
 
 ### Instagram
@@ -21,4 +24,4 @@ We're currently harvesting specific Instagram accounts and hashtags:
 
 Twitter harvesting (using API) _in progress_
 
-Interested in using this data in your research?  Please let us know!
+Interested in using this data in your research?  [Please let us know](/contact)!
