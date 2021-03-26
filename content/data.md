@@ -1,7 +1,8 @@
-+++
-
-+++
-# Canada Games Data
+---
+title: "Canada Games Data"
+date: 2021-03-19T14:32:58-04:00
+draft: false
+---
 
 ### Instagram
 
