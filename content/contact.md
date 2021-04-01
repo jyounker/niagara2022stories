@@ -6,7 +6,7 @@ description: We'd love to hear from you
 type: page
 menu:
   main:
-    weight: 1
+    weight: 4
 
 ---
 Have a question or a comment?  Please use the form below to get in touch with us.

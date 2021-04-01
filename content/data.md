@@ -6,7 +6,7 @@ type: page
 date: 2021-03-19T14:32:58.000-04:00
 menu:
   main:
-    weight: 3
+    weight: 2
 
 ---
 ### Instagram
