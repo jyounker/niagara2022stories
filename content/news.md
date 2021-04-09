@@ -6,4 +6,4 @@ type: page
 menu: main
 ---
 {{< newsdata >}}
-Looking for the [raw datasets](https://www.github.com/jyounker/niagara2022stories/data/)?
+Looking for the [raw datasets](https://www.github.com/jyounker/niagara2022stories/tree/master/data/)?
