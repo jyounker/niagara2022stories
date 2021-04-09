@@ -1,6 +1,6 @@
 ---
 title: Niagara2022stories
-#featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/canada_games_park.jpg"
 description: Collecting Niagara 2022 Canada Games stories
 omit_header_text: true
 ---
