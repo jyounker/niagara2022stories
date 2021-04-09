@@ -6,7 +6,7 @@ type: page
 date: 2021-03-26T09:40:17.000-04:00
 menu:
   main:
-    weight: 5
+    weight: 4
 
 ---
 My name is Jonathan Younker, and I'm a librarian at [Brock University](https://www.brocku.ca/), located in St. Catharines, Ontario.  I received a research grant through the [VPR Canada Games Grants program](https://brocku.ca/canada-games/research-subcommittee/vpr-grants-program/) for this project.

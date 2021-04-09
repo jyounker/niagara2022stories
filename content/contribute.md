@@ -6,7 +6,7 @@ description: Contribute to the project!
 type: page
 menu:
   main:
-    weight: 4
+    weight: 1
 
 ---
 Want to get involved?  Here are the ways you can contribute to the project:

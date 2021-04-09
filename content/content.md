@@ -1,12 +1,14 @@
 ---
-title: "Content"
+title: Content
 omit_header_text: true
 description: Canada Games Content
 type: page
-menu: main
-date: 2021-03-19T14:32:58-04:00
----
+date: 2021-03-19T14:32:58.000-04:00
+menu:
+  main:
+    weight: 2
 
+---
 ### Instagram
 
 We're currently harvesting specific Instagram accounts and hashtags:
