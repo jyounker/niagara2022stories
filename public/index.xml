@@ -14,7 +14,7 @@
       
       <guid>https://niagara2022stories.ca/contribute/</guid>
       <description>Want to get involved? Here are the ways you can contribute to the project:
- Post your stories and pictures to Instagram with the #Niagara2022Stories hashtag, or with any of the hashtags on our Data page. These posts will be automatically harvested and archived for posterity No social media? No problem! Post your content directly to our repository  </description>
+ Post your stories and pictures to Instagram with the #Niagara2022Stories hashtag, or with any of the hashtags on our Data page. These posts will be automatically harvested and archived for posterity No social media? No problem! Post your content directly to our repository.  </description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       
       <guid>https://niagara2022stories.ca/contact/</guid>
       <description>Have a question or a comment? Please use the form below to get in touch with us.
-Interested in contributing your stories? Pleas see the Contribute page.
+Interested in contributing your stories? Please see the Contribute page.
 Your Name Email Address An email address is required.  Message   </description>
     </item>
     
@@ -39,11 +39,11 @@ Goals We’re collecting as much data as possible about the Niagara 2022 Summer 
     </item>
     
     <item>
-      <title>Data</title>
-      <link>https://niagara2022stories.ca/data/</link>
+      <title>Content</title>
+      <link>https://niagara2022stories.ca/content/</link>
       <pubDate>Fri, 19 Mar 2021 14:32:58 -0400</pubDate>
       
-      <guid>https://niagara2022stories.ca/data/</guid>
+      <guid>https://niagara2022stories.ca/content/</guid>
       <description>Instagram We&amp;rsquo;re currently harvesting specific Instagram accounts and hashtags:
  #Niagara2022 #Niagara2022Stories #2022CSG #2022CanadaGames #CanadaGamesPark #2022CanadaSummerGames 2022CanadaGames Niagara2022Stories  Twitter Twitter harvesting (using API) in progress
 Interested in using this data in your research? Please let us know!</description>

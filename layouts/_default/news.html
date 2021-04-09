@@ -1,0 +1,40 @@
+{{ define "main" }}
+<section class="jytabs">
+    <input class="jyinput" name="tabs" type="radio" id="tab-1" checked="checked" />
+    <label class="label" for="tab-1">2021</label>
+      <div class="panel">
+        <table>
+            <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Source</th>
+            </tr>
+        {{ range .Site.Data.news21 }}
+            <tr>
+                <td>{{.date}}</td>
+                <td><a href="{{.url}}">{{.title}}</a></td>
+                <td>{{.source}}</td>
+            </tr>
+        {{end}}
+          </table>
+      </div>
+    <input class="jyinput" name="tabs" type="radio" id="tab-2" />
+    <label class="label" for="tab-2">2020</label>
+      <div class="panel">
+        <table>
+            <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Source</th>
+            </tr>
+        {{ range .Site.Data.news21 }}
+            <tr>
+                <td>{{.date}}</td>
+                <td><a href="{{.url}}">{{.title}}</a></td>
+                <td>{{.source}}</td>
+            </tr>
+        {{end}}
+          </table>
+      </div>
+  </section>
+{{ end }}

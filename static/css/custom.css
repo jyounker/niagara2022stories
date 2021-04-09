@@ -1,9 +1,81 @@
 table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
   width: 100%;
 }
 
-td {
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-  padding: 0.6rem;
+td,th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+  tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+/* Adapted from https://kyusuf.com/post/completely-css-tabs/ */
+
+.jytabs {
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 700px;
+	background: #e5e5e5;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jyinput {
+	position: absolute;
+	opacity: 0;
+}
+
+.label {
+	width: 100%;
+	padding: 20px 30px;
+	background: #e5e5e5;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 18px;
+	color: #7f7f7f;
+	transition: background 0.1s, color 0.1s;
+}
+
+.label:hover {
+	background: #d8d8d8;
+}
+
+.label:active {
+	background: #ccc;
+}
+
+.jyinput:focus + .label {
+	box-shadow: inset 0px 0px 0px 3px #000;
+	z-index: 1;
+}
+
+.jyinput:checked + .label {
+	background: #fff;
+	color: #000;
+}
+
+@media (min-width: 600px) {
+	.label {
+		width: auto;
+	}
+}
+
+.panel {
+	display: none;
+	padding: 20px 30px 30px;
+	background: #fff;
+}
+
+@media (min-width: 600px) {
+	.panel {
+		order: 99;
+	}
+}
+
+.jyinput:checked + .label + .panel {
+	display: block;
 }

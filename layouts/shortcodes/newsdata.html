@@ -1,0 +1,42 @@
+<section class="jytabs">
+    <input class="jyinput" name="tabs" type="radio" id="tab-1" checked="checked" />
+    <label class="label" for="tab-1">2021</label>
+      <div class="panel">
+        <table>
+            <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Source</th>
+                <th>Alternative link</th>
+            </tr>
+        {{ range .Site.Data.news21}}
+            <tr>
+                <td>{{.date}}</td>
+                <td><a href="{{.url}}">{{.title}}</a></td>
+                <td>{{.source}}</td>
+                <td><a href="https://web.archive.org/web/*/{{.url}}">Internet Archive</a></td>
+            </tr>
+        {{end}}
+          </table>
+      </div>
+    <input class="jyinput" name="tabs" type="radio" id="tab-2" />
+    <label class="label" for="tab-2">2020</label>
+      <div class="panel">
+        <table>
+            <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Source</th>
+                <th>Alternative Link</th>
+            </tr>
+        {{ range .Site.Data.news20 }}
+            <tr>
+                <td>{{.date}}</td>
+                <td><a href="{{.url}}">{{.title}}</a></td>
+                <td>{{.source}}</td>
+                <td><a href="https://web.archive.org/web/*/{{.url}}">Internet Archive</a></td>
+            </tr>
+        {{end}}
+          </table>
+      </div>
+  </section>

@@ -1,7 +1,7 @@
 ---
-title: "Data"
+title: "Content"
 omit_header_text: true
-description: Canada Games Data
+description: Canada Games Content
 type: page
 menu: main
 date: 2021-03-19T14:32:58-04:00
