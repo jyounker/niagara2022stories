@@ -9,7 +9,7 @@ menu:
     weight: 4
 
 ---
-My name is Jonathan Younker, and I'm a librarian at [Brock University](https://www.brocku.ca/), located in St. Catharines, Ontario.  I received a research grant through the [VPR Canada Games Grants program](https://brocku.ca/canada-games/research-subcommittee/vpr-grants-program/) for this project.
+My name is [Jonathan Younker](https://brocku.ca/canada-games/research-subcommittee/research-profiles/jonathan-younker/), and I'm a librarian at [Brock University](https://www.brocku.ca/), located in St. Catharines, Ontario.  I received a research grant through the [VPR Canada Games Grants program](https://brocku.ca/canada-games/research-subcommittee/vpr-grants-program/) for this project.
 
 ### Goals
 
