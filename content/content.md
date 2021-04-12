@@ -27,3 +27,10 @@ We're currently harvesting specific Instagram accounts and hashtags:
 Twitter harvesting (using API) _in progress_
 
 Interested in using this data in your research?  [Please let us know](/contact)!
+
+### Omeka
+
+Below are the last 5 submissions to our repository.  Click images for more information.
+Want to [contribute](/contribute)?
+
+{{< omeka >}}

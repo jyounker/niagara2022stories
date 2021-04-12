@@ -1,0 +1,6 @@
+{{ $dataJ := getJSON "https://exhibits.library.brocku.ca/api/items?item_set_id=5508" }}
+
+
+{{ range first 5 $dataJ }}
+        <a href="https://exhibits.library.brocku.ca/s/niagara2022stories/item/{{ index . "o:id" }}"> <img src="{{ .thumbnail_display_urls.large }}" alt="submitted image, click image for more information" /></a> <br />
+{{ end }}
