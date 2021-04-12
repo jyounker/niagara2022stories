@@ -10,5 +10,5 @@ menu:
 
 ---
 Want to get involved?  Here are the ways you can contribute to the project:
-* Post your stories and pictures to Instagram with the [#Niagara2022Stories](https://instagram.com/explore/tags/niagara2022stories) hashtag, or with any of the hashtags on our [Data](/data) page.  These posts will be automatically harvested and archived for posterity.
-* No social media?  No problem!  Post your content directly to our repository.
+* Post your stories and pictures to Instagram with the [#Niagara2022Stories](https://instagram.com/explore/tags/niagara2022stories) hashtag, or with any of the hashtags listed on our [Content](/content) page.  These posts will be automatically harvested and archived for posterity.
+* No social media?  No problem!  You can submit your pictures, stories, etc. [directly](https://exhibits.library.brocku.ca/s/niagara2022stories/page/contribute) to our repository.  
