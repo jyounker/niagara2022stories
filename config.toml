@@ -27,7 +27,7 @@ rss = ""
 site_logo = ""
 slack = ""
 stackoverflow = ""
-twitter = "https://twitter.com/niagara2022stories"
+twitter = "https://twitter.com/niagara2022"
 youtube = ""
 [sitemap]
 changefreq = "monthly"
