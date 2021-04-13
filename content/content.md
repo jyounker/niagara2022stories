@@ -22,15 +22,15 @@ We're currently harvesting specific Instagram accounts and hashtags:
 * [2022CanadaGames](https://instagram.com/2022canadagames)
 * [Niagara2022Stories](https://instagram.com/niagara2022stories)
 
+Interested in using this data in your research?  [Please let us know](/contact)!
+
 ### Twitter
 
 Twitter harvesting (using API) _in progress_
 
-Interested in using this data in your research?  [Please let us know](/contact)!
-
 ### Omeka
 
-Below are the last 5 submissions to our repository.  Click images for more information.
-Want to [contribute](/contribute)?
+Below are the _last 5 submissions_ to our repository (click images for more information).
+Want to [contribute](/contribute) your own pictures and stories?
 
 {{< omeka >}}

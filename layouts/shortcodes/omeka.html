@@ -2,5 +2,14 @@
 
 
 {{ range first 5 $dataJ }}
-        <a href="https://exhibits.library.brocku.ca/s/niagara2022stories/item/{{ index . "o:id" }}"> <img src="{{ .thumbnail_display_urls.large }}" alt="submitted image, click image for more information" /></a> <br />
+    {{ range index . "dcterms:title" }}
+        <h4>{{ index . "@value" }}</h4>
+    {{ end }}
+    <a href="https://exhibits.library.brocku.ca/s/niagara2022stories/item/{{ index . "o:id" }}"> <img src="{{ .thumbnail_display_urls.large }}" alt="submitted image, click image for more information" /></a>
+    {{ range index . "dcterms:description" }}
+        <strong>Description:</strong> {{ index . "@value" }}<br />
+    {{ end }}
+    {{ range index . "dcterms:creator" }}
+        <strong>Submitted by:</strong> {{ index . "@value" }}<br />
+    {{ end }}
 {{ end }}
