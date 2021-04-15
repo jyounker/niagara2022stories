@@ -22,11 +22,13 @@ We're currently harvesting specific Instagram accounts and hashtags:
 * [2022CanadaGames](https://instagram.com/2022canadagames)
 * [Niagara2022Stories](https://instagram.com/niagara2022stories)
 
-Interested in using this data in your research?  [Please let us know](/contact)!
+Interested in using this Instagram data in your research?  [Please let us know](/contact)!
 
 ### Twitter
 
-Twitter harvesting (using API) _in progress_
+Twitter harvesting (using the official [Academic Research Twitter API](https://developer.twitter.com/en/solutions/academic-research)): archive of over 11,500 tweets (#2021CanadaGames and #2022CanadaGames completed), from 2017 to present.
+
+Interested in using this Twitter data in your research?  [Please let us know](/contact)!
 
 ### Omeka
 
